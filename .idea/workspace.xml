@@ -4,31 +4,136 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9749eef4-ef6e-4378-9c8b-d45f08aa7965" name="Changes" comment="" />
+    <list default="true" id="9749eef4-ef6e-4378-9c8b-d45f08aa7965" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/APIAutomationPrograms/Task003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/APIAutomationPrograms/FirstRestAssuredProgam/FirstRestAssuredProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/APIAutomationPrograms/FirstRestAssuredProgam/Task001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/APIAutomationPrograms/FirstRestAssuredProgam/Task001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/APIAutomationPrograms/Task002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/APIAutomationPrograms/Task002.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "KrutikaHonnalli"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/KrutikaHonnalli/APIAutomationTestingFolder.git",
+    "accountId": "cf1bbe3d-7db4-4e2b-b708-aa564ae8269c"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
   <component name="ProjectId" id="2q1MWg8n0KdIYYLnloT2tTvOMf1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.Task001.executor": "Run",
+    "Application.Task002.executor": "Run",
+    "JUnit.AppTest.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/target/generated-test-sources/test-annotations"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.APIAutomationPrograms" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Task002">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.APIAutomationPrograms.App" />
+      <module name="APIAutomationTestingProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.APIAutomationPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.APIAutomationPrograms.FirstRestAssuredProgam.Task001" />
+      <module name="APIAutomationTestingProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.APIAutomationPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.APIAutomationPrograms.Task002" />
+      <module name="APIAutomationTestingProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.APIAutomationPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationTestingProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.APIAutomationPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.APIAutomationPrograms" />
+      <option name="MAIN_CLASS_NAME" value="com.APIAutomationPrograms.AppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task002" />
+        <item itemvalue="Application.Task001" />
+        <item itemvalue="JUnit.AppTest" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
