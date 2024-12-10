@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9749eef4-ef6e-4378-9c8b-d45f08aa7965" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/APIAutomationPrograms/Task003.java" afterDir="false" />
+    <list default="true" id="9749eef4-ef6e-4378-9c8b-d45f08aa7965" name="Changes" comment="GetBookAPI">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/APIAutomationPrograms/FirstRestAssuredProgam/FirstRestAssuredProgram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/APIAutomationPrograms/FirstRestAssuredProgam/Task001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/APIAutomationPrograms/FirstRestAssuredProgam/Task001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/APIAutomationPrograms/Task002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/APIAutomationPrograms/Task002.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +70,7 @@
       <module name="APIAutomationTestingProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.APIAutomationPrograms.*" />
+          <option name="PATTERN" value="com.APIAutomationPrograms.APIExamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,7 +83,7 @@
       <module name="APIAutomationTestingProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.APIAutomationPrograms.*" />
+          <option name="PATTERN" value="com.APIAutomationPrograms.APIExamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,11 +92,11 @@
       </method>
     </configuration>
     <configuration name="Task002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.APIAutomationPrograms.Task002" />
+      <option name="MAIN_CLASS_NAME" value="com.APIAutomationPrograms.APIExamples.Task002" />
       <module name="APIAutomationTestingProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.APIAutomationPrograms.*" />
+          <option name="PATTERN" value="com.APIAutomationPrograms.APIExamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,7 +108,7 @@
       <module name="APIAutomationTestingProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.APIAutomationPrograms.*" />
+          <option name="PATTERN" value="com.APIAutomationPrograms.APIExamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,6 +137,19 @@
       <option name="presentableId" value="Default" />
       <updated>1733825660474</updated>
     </task>
+    <task id="LOCAL-00001" summary="GetBookAPI">
+      <option name="closed" value="true" />
+      <created>1733831737141</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733831737141</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="GetBookAPI" />
+    <option name="LAST_COMMIT_MESSAGE" value="GetBookAPI" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package com.APIAutomationPrograms;
+package com.APIAutomationPrograms.APIExamples;
 
 import io.restassured.RestAssured;
 
