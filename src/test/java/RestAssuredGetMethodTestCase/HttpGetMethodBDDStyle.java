@@ -20,9 +20,9 @@ public class HttpGetMethodBDDStyle
                     .baseUri("https://restful-booker.herokuapp.com")
                     .basePath("/booking/"+BookID)
                 .when()
-                .get()
+                    .get()
                 .then()
-                .log().all().statusCode(200);
+                    .log().all().statusCode(200);
     }
 
     @Description("Validating TestCase with the Invalid BookID:-1")
