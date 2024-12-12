@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9749eef4-ef6e-4378-9c8b-d45f08aa7965" name="Changes" comment="GetBookAPI">
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredGetMethodTestCase/HttpGetMethodBDDStyle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/APIAutomationPrograms/APIExamples/Task002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/APIAutomationPrograms/APIExamples/Task002.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,21 +24,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "KrutikaHonnalli"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KrutikaHonnalli&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/KrutikaHonnalli/APIAutomationTestingFolder.git",
-    "accountId": "cf1bbe3d-7db4-4e2b-b708-aa564ae8269c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KrutikaHonnalli/APIAutomationTestingFolder.git&quot;,
+    &quot;accountId&quot;: &quot;54cb387d-5c85-4ea2-ba45-864405acf89e&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2q1MWg8n0KdIYYLnloT2tTvOMf1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,15 +53,25 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.App.executor": "Run",
+    "Application.Example1.executor": "Run",
+    "Application.HttpGetMethodExample.executor": "Run",
     "Application.Task001.executor": "Run",
     "Application.Task002.executor": "Run",
     "JUnit.AppTest.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.Example1.executor": "Run",
+    "TestNG.HttpGetMethodBDDStyle.executor": "Run",
+    "TestNG.HttpGetMethodExample.executor": "Run",
+    "TestNG.RestAssuredExample.ValidAPIURI.executor": "Run",
+    "TestNG.RestAssuredExample.executor": "Run",
+    "TestNG.WithBDDStyleExample.executor": "Run",
+    "TestNG.WithBDStyleTestCase.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_directory_selection": "C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/target/generated-test-sources/test-annotations"
+    "last_directory_selection": "C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/target/generated-test-sources/test-annotations",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -64,13 +79,13 @@
       <recent name="com.APIAutomationPrograms" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task002">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.APIAutomationPrograms.App" />
+  <component name="RunManager" selected="TestNG.HttpGetMethodBDDStyle">
+    <configuration name="HttpGetMethodBDDStyle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RestAssuredGetMethodTestCase.HttpGetMethodBDDStyle" />
       <module name="APIAutomationTestingProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.APIAutomationPrograms.APIExamples.*" />
+          <option name="PATTERN" value="RestAssuredGetMethodTestCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,53 +93,82 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.APIAutomationPrograms.FirstRestAssuredProgam.Task001" />
+    <configuration name="HttpGetMethodBDDStyle" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationTestingProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.APIAutomationPrograms.APIExamples.*" />
+          <option name="PATTERN" value="RestAssuredGetMethodTestCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="RestAssuredGeTMethodTestCase" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredGetMethodTestCase.HttpGetMethodBDDStyle" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.APIAutomationPrograms.APIExamples.Task002" />
+    <configuration name="RestAssuredExample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationTestingProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.APIAutomationPrograms.APIExamples.*" />
+          <option name="PATTERN" value="RestAssuredExample1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="RestAssuredExample1" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredExample1.RestAssuredExample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RestAssuredExample.ValidAPIURI" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationTestingProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.APIAutomationPrograms.APIExamples.*" />
+          <option name="PATTERN" value="RestAssuredExample1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.APIAutomationPrograms" />
-      <option name="MAIN_CLASS_NAME" value="com.APIAutomationPrograms.AppTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="RestAssuredExample1" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredExample1.RestAssuredExample" />
+      <option name="METHOD_NAME" value="ValidAPIURI" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WithBDDStyleExample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationTestingProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RestAssuredExample1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RestAssuredExample1" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredExample1.WithBDDStyleExample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task002" />
-        <item itemvalue="Application.Task001" />
-        <item itemvalue="JUnit.AppTest" />
-        <item itemvalue="Application.App" />
+        <item itemvalue="TestNG.HttpGetMethodBDDStyle" />
+        <item itemvalue="Application.HttpGetMethodBDDStyle" />
+        <item itemvalue="TestNG.RestAssuredExample" />
+        <item itemvalue="TestNG.RestAssuredExample.ValidAPIURI" />
+        <item itemvalue="TestNG.WithBDDStyleExample" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733831737141</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="GetBookAPI">
+      <option name="closed" value="true" />
+      <created>1733832060179</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733832060179</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
