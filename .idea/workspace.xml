@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9749eef4-ef6e-4378-9c8b-d45f08aa7965" name="Changes" comment="GetBookAPI">
-      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredGetMethodTestCase/HttpGetMethodBDDStyle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/APIAutomationPrograms/APIExamples/Task002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/APIAutomationPrograms/APIExamples/Task002.java" afterDir="false" />
-    </list>
+    <list default="true" id="9749eef4-ef6e-4378-9c8b-d45f08aa7965" name="Changes" comment="GetBookAPIWithBDDStyle" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,11 +193,71 @@
       <option name="project" value="LOCAL" />
       <updated>1733832060179</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="GetBookAPIWithBDDStyle">
+      <option name="closed" value="true" />
+      <created>1734001922486</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734001922486</updated>
+    </task>
+    <task id="LOCAL-00004" summary="GetBookAPIWithBDDStyle">
+      <option name="closed" value="true" />
+      <created>1734002061898</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734002061898</updated>
+    </task>
+    <task id="LOCAL-00005" summary="GetBookAPIWithBDDStyle">
+      <option name="closed" value="true" />
+      <created>1734002129738</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734002129738</updated>
+    </task>
+    <task id="LOCAL-00006" summary="GetBookAPIWithBDDStyle">
+      <option name="closed" value="true" />
+      <created>1734002141921</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734002141921</updated>
+    </task>
+    <task id="LOCAL-00007" summary="GetBookAPIWithBDDStyle">
+      <option name="closed" value="true" />
+      <created>1734002146157</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1734002146157</updated>
+    </task>
+    <task id="LOCAL-00008" summary="GetBookAPIWithBDDStyle">
+      <option name="closed" value="true" />
+      <created>1734002153069</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1734002153069</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="GetBookAPI" />
-    <option name="LAST_COMMIT_MESSAGE" value="GetBookAPI" />
+    <MESSAGE value="GetBookAPIWithBDDStyle" />
+    <option name="LAST_COMMIT_MESSAGE" value="GetBookAPIWithBDDStyle" />
   </component>
 </project>
