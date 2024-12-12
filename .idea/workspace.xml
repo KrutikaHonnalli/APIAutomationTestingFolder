@@ -10,6 +10,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -241,7 +247,47 @@
       <option name="project" value="LOCAL" />
       <updated>1734002153069</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="GetBookAPIWithBDDStyle">
+      <option name="closed" value="true" />
+      <created>1734002190745</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1734002190745</updated>
+    </task>
+    <task id="LOCAL-00010" summary="GetBookAPIWithBDDStyle">
+      <option name="closed" value="true" />
+      <created>1734002266984</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1734002266984</updated>
+    </task>
+    <task id="LOCAL-00011" summary="GetBookAPIWithBDDStyle">
+      <option name="closed" value="true" />
+      <created>1734002278194</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1734002278194</updated>
+    </task>
+    <task id="LOCAL-00012" summary="GetBookAPIWithBDDStyle">
+      <option name="closed" value="true" />
+      <created>1734002287344</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1734002287344</updated>
+    </task>
+    <task id="LOCAL-00013" summary="GetBookAPIWithBDDStyle">
+      <option name="closed" value="true" />
+      <created>1734002296406</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1734002296406</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
