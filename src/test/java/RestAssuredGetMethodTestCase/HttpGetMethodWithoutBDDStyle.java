@@ -3,7 +3,7 @@ package RestAssuredGetMethodTestCase;
 import io.qameta.allure.Description;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
-import io.restassured.response.Validatable;
+
 import io.restassured.response.ValidatableResponse;
 import io.restassured.specification.RequestSpecification;
 import org.testng.annotations.Test;
@@ -17,7 +17,7 @@ public class HttpGetMethodWithoutBDDStyle {
     @Test
   public void ValidBookingIDAPI()
   {
-      String BookID="1";
+      String BookID="222";
       RequestDetails =
               RestAssured
                 .given()

@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9749eef4-ef6e-4378-9c8b-d45f08aa7965" name="Changes" comment="GetBookAPIWithoutBDDStyle">
-      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredDeleteMethodTestCase/DeleteMethodWithoutBDDStyle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredPatchMethodsTestCase/PatchMethodWithoutBDDStyle.java" afterDir="false" />
+    <list default="true" id="9749eef4-ef6e-4378-9c8b-d45f08aa7965" name="Changes" comment="BookAPIWithoutBDDStyle">
+      <change afterPath="$PROJECT_DIR$/RegisterandLoginUserAPI.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredAPIExample/CreateUserAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredAPIExample/DeleteUserAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredAPIExample/LoginSuccessfulAndUnsuccessful.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredAPIExample/PartialUpdateUserAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredAPIExample/RegisterSuccessfulAndUnsuccessful.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredAPIExample/UpdateUserAPI.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredPostMethodTestCase/PostMethodWithoutBDDStyleExample1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredPostMethodTestCase/PostMethodWithoutBDDStyleExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredPutMethodTestCase/PutMethodWithoutBDDStyle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/RestAssuredGetMethodTestCase/HttpGetMethodWithoutBDDStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RestAssuredGetMethodTestCase/HttpGetMethodWithoutBDDStyle.java" afterDir="false" />
     </list>
@@ -27,6 +31,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -66,16 +71,21 @@
     "Application.Example1.executor": "Run",
     "Application.HttpGetMethodExample.executor": "Run",
     "Application.HttpGetMethodWithoutBDDStyle.executor": "Run",
+    "Application.LoginSuccessfulAndUnsuccessful.executor": "Run",
+    "Application.RegisterSuccessful.executor": "Run",
     "Application.Task001.executor": "Run",
     "Application.Task002.executor": "Run",
     "JUnit.AppTest.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/RegisterandLogin.xml.executor": "Run",
     "TestNG.C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/testng.xml.executor": "Run",
     "TestNG.C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/testngWithoutBDD.xml.executor": "Run",
+    "TestNG.CreateUserAPI.executor": "Run",
     "TestNG.DeleteMethodWithoutBDDStyle.DeleteRequestMethod.executor": "Run",
     "TestNG.DeleteMethodWithoutBDDStyle.executor": "Run",
+    "TestNG.DeleteUserAPI.executor": "Run",
     "TestNG.Example1.executor": "Run",
     "TestNG.GetMethodforSingleBook.GetSingleBookDetails.executor": "Run",
     "TestNG.GetMethodforSingleBook.executor": "Run",
@@ -84,6 +94,9 @@
     "TestNG.HttpGetMethodExample.executor": "Run",
     "TestNG.HttpGetMethodWithoutBDDStyle.ValidBookingIDAPI.executor": "Run",
     "TestNG.HttpGetMethodWithoutBDDStyle.executor": "Run",
+    "TestNG.LoginSuccessfulAndUnsuccessful.LoginWithValidDetails.executor": "Run",
+    "TestNG.LoginSuccessfulAndUnsuccessful.executor": "Run",
+    "TestNG.PartialUpdateUserAPI.executor": "Run",
     "TestNG.PatchMethodWithBDStyle.executor": "Run",
     "TestNG.PatchMethodWithoutBDDStyle.executor": "Run",
     "TestNG.PostMethodWithoutBDDStyleExample1.ValidPostRequest.executor": "Run",
@@ -91,18 +104,25 @@
     "TestNG.PostMethodWithoutBDDStyleExample2.executor": "Run",
     "TestNG.PutMethodWithoutBDDStyle.executor": "Run",
     "TestNG.PutMethodWithoutBDDStyle.validUpdateTestCase.executor": "Run",
+    "TestNG.RegisterSuccessful (1).executor": "Run",
+    "TestNG.RegisterSuccessful.executor": "Run",
+    "TestNG.RegisterSuccessfulAndUnsuccessful.executor": "Run",
     "TestNG.RestAssuredExample.ValidAPIURI.executor": "Run",
     "TestNG.RestAssuredExample.executor": "Run",
+    "TestNG.UpdateUserAPI.executor": "Run",
     "TestNG.WithBDDStyleExample.executor": "Run",
     "TestNG.WithBDStyleTestCase.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/target/generated-test-sources/test-annotations",
     "last_opened_file_path": "C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ReqResAPISample" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\krutika.k.INDIA\IdeaProjects\APIAutomationTestingFolder" />
     </key>
@@ -110,10 +130,10 @@
       <recent name="com.APIAutomationPrograms" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/testng.xml">
-    <configuration name="C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/RegisterandLoginUserAPI.xml">
+    <configuration name="C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/RegisterandLoginUserAPI.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationTestingProgram" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/RegisterandLoginUserAPI.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -121,16 +141,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeleteMethodWithoutBDDStyle" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CreateUserAPI" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationTestingProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RestAssuredDeleteMethodTestCase.*" />
+          <option name="PATTERN" value="RestAssuredAPIExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="RestAssuredDeleteMethod" />
-      <option name="MAIN_CLASS_NAME" value="RestAssuredDeleteMethodTestCase.DeleteMethodWithoutBDDStyle" />
+      <option name="PACKAGE_NAME" value="RestAssuredAPIExample" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredAPIExample.CreateUserAPI" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -138,34 +158,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeleteMethodWithoutBDDStyle.DeleteRequestMethod" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DeleteUserAPI" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationTestingProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RestAssuredDeleteMethodTestCase.*" />
+          <option name="PATTERN" value="RestAssuredAPIExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="RestAssuredDeleteMethod" />
-      <option name="MAIN_CLASS_NAME" value="RestAssuredDeleteMethodTestCase.DeleteMethodWithoutBDDStyle" />
-      <option name="METHOD_NAME" value="DeleteRequestMethod" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PatchMethodWithoutBDDStyle" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="APIAutomationTestingProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RestAssuredPatchMethodsTestCase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="PatchMethodWithoutBDDStyle" />
-      <option name="MAIN_CLASS_NAME" value="RestAssuredPatchMethodsTestCase.PatchMethodWithoutBDDStyle" />
+      <option name="PACKAGE_NAME" value="RestAssuredAPIExample" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredAPIExample.DeleteUserAPI" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -173,18 +175,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PutMethodWithoutBDDStyle.validUpdateTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PartialUpdateUserAPI" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationTestingProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RestAssuredPutMethodTestCase.*" />
+          <option name="PATTERN" value="RestAssuredAPIExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="RestAssuredPutMethodTestCase" />
-      <option name="MAIN_CLASS_NAME" value="RestAssuredPutMethodTestCase.PutMethodWithoutBDDStyle" />
-      <option name="METHOD_NAME" value="validUpdateTestCase" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="RestAssuredAPIExample" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredAPIExample.PartialUpdateUserAPI" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateUserAPI" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationTestingProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RestAssuredAPIExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RestAssuredAPIExample" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredAPIExample.UpdateUserAPI" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -193,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/testng.xml" />
-        <item itemvalue="TestNG.DeleteMethodWithoutBDDStyle.DeleteRequestMethod" />
-        <item itemvalue="TestNG.DeleteMethodWithoutBDDStyle" />
-        <item itemvalue="TestNG.PatchMethodWithoutBDDStyle" />
-        <item itemvalue="TestNG.PutMethodWithoutBDDStyle.validUpdateTestCase" />
+        <item itemvalue="TestNG.C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/RegisterandLoginUserAPI.xml" />
+        <item itemvalue="TestNG.DeleteUserAPI" />
+        <item itemvalue="TestNG.PartialUpdateUserAPI" />
+        <item itemvalue="TestNG.UpdateUserAPI" />
+        <item itemvalue="TestNG.CreateUserAPI" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +348,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734006850630</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="BookAPIWithoutBDDStyle">
+      <option name="closed" value="true" />
+      <created>1734260662151</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1734260662151</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -348,7 +374,8 @@
     <MESSAGE value="GetBookAPI" />
     <MESSAGE value="GetBookAPIWithBDDStyle" />
     <MESSAGE value="GetBookAPIWithoutBDDStyle" />
-    <option name="LAST_COMMIT_MESSAGE" value="GetBookAPIWithoutBDDStyle" />
+    <MESSAGE value="BookAPIWithoutBDDStyle" />
+    <option name="LAST_COMMIT_MESSAGE" value="BookAPIWithoutBDDStyle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

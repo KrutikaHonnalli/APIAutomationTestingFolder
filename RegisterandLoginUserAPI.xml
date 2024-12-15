@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/src/test/java/RestAssuredAPIExample">
+
+    <classes>
+        <class name="RestAssuredAPIExample.RegisterSuccessfulAndUnsuccessful">
+        </class>
+        <class name="RestAssuredAPIExample.LoginSuccessfulAndUnsuccessful">
+        </class>
+        <class name="RestAssuredAPIExample.CreateUserAPI">
+        </class>
+        <class name="RestAssuredAPIExample.UpdateUserAPI">
+        </class>
+        <class name="RestAssuredAPIExample.PartialUpdateUserAPI">
+        </class>
+        <class name="RestAssuredAPIExample.DeleteUserAPI">
+        </class>
+
+    </classes>
+</test>
+</suite>
