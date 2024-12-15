@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9749eef4-ef6e-4378-9c8b-d45f08aa7965" name="Changes" comment="GetBookAPIWithBDDStyle">
-      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredGetMethodTestCase/HttpGetMethodWithoutBDDStyle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testngWithoutBDD.xml" afterDir="false" />
+    <list default="true" id="9749eef4-ef6e-4378-9c8b-d45f08aa7965" name="Changes" comment="GetBookAPIWithoutBDDStyle">
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredDeleteMethodTestCase/DeleteMethodWithoutBDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredPatchMethodsTestCase/PatchMethodWithoutBDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredPostMethodTestCase/PostMethodWithoutBDDStyleExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredPostMethodTestCase/PostMethodWithoutBDDStyleExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredPutMethodTestCase/PutMethodWithoutBDDStyle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/RestAssuredGetMethodTestCase/HttpGetMethodBDDStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RestAssuredGetMethodTestCase/HttpGetMethodBDDStyle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RestAssuredGetMethodTestCase/HttpGetMethodWithoutBDDStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RestAssuredGetMethodTestCase/HttpGetMethodWithoutBDDStyle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,12 +74,23 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/testng.xml.executor": "Run",
     "TestNG.C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/testngWithoutBDD.xml.executor": "Run",
+    "TestNG.DeleteMethodWithoutBDDStyle.DeleteRequestMethod.executor": "Run",
+    "TestNG.DeleteMethodWithoutBDDStyle.executor": "Run",
     "TestNG.Example1.executor": "Run",
+    "TestNG.GetMethodforSingleBook.GetSingleBookDetails.executor": "Run",
+    "TestNG.GetMethodforSingleBook.executor": "Run",
     "TestNG.HttpGetMethodBDDStyle.ValidStatusCodeTestCase.executor": "Run",
     "TestNG.HttpGetMethodBDDStyle.executor": "Run",
     "TestNG.HttpGetMethodExample.executor": "Run",
     "TestNG.HttpGetMethodWithoutBDDStyle.ValidBookingIDAPI.executor": "Run",
     "TestNG.HttpGetMethodWithoutBDDStyle.executor": "Run",
+    "TestNG.PatchMethodWithBDStyle.executor": "Run",
+    "TestNG.PatchMethodWithoutBDDStyle.executor": "Run",
+    "TestNG.PostMethodWithoutBDDStyleExample1.ValidPostRequest.executor": "Run",
+    "TestNG.PostMethodWithoutBDDStyleExample1.executor": "Run",
+    "TestNG.PostMethodWithoutBDDStyleExample2.executor": "Run",
+    "TestNG.PutMethodWithoutBDDStyle.executor": "Run",
+    "TestNG.PutMethodWithoutBDDStyle.validUpdateTestCase.executor": "Run",
     "TestNG.RestAssuredExample.ValidAPIURI.executor": "Run",
     "TestNG.RestAssuredExample.executor": "Run",
     "TestNG.WithBDDStyleExample.executor": "Run",
@@ -97,16 +111,6 @@
     </key>
   </component>
   <component name="RunManager" selected="TestNG.C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/testng.xml">
-    <configuration name="C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/testngWithoutBDD.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="APIAutomationTestingProgram" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testngWithoutBDD.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationTestingProgram" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -117,34 +121,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HttpGetMethodBDDStyle.ValidStatusCodeTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DeleteMethodWithoutBDDStyle" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationTestingProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RestAssuredGetMethodTestCase.*" />
+          <option name="PATTERN" value="RestAssuredDeleteMethodTestCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="RestAssuredGetMethodTestCase" />
-      <option name="MAIN_CLASS_NAME" value="RestAssuredGetMethodTestCase.HttpGetMethodBDDStyle" />
-      <option name="METHOD_NAME" value="ValidStatusCodeTestCase" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HttpGetMethodWithoutBDDStyle" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="APIAutomationTestingProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RestAssuredGetMethodTestCase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="RestAssuredGetMethodTestCase" />
-      <option name="MAIN_CLASS_NAME" value="RestAssuredGetMethodTestCase.HttpGetMethodWithoutBDDStyle" />
+      <option name="PACKAGE_NAME" value="RestAssuredDeleteMethod" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredDeleteMethodTestCase.DeleteMethodWithoutBDDStyle" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -152,17 +138,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HttpGetMethodWithoutBDDStyle.ValidBookingIDAPI" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DeleteMethodWithoutBDDStyle.DeleteRequestMethod" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationTestingProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RestAssuredGetMethodTestCase.*" />
+          <option name="PATTERN" value="RestAssuredDeleteMethodTestCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="RestAssuredGetMethodTestCase" />
-      <option name="MAIN_CLASS_NAME" value="RestAssuredGetMethodTestCase.HttpGetMethodWithoutBDDStyle" />
-      <option name="METHOD_NAME" value="ValidBookingIDAPI" />
+      <option name="PACKAGE_NAME" value="RestAssuredDeleteMethod" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredDeleteMethodTestCase.DeleteMethodWithoutBDDStyle" />
+      <option name="METHOD_NAME" value="DeleteRequestMethod" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatchMethodWithoutBDDStyle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationTestingProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RestAssuredPatchMethodsTestCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PatchMethodWithoutBDDStyle" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredPatchMethodsTestCase.PatchMethodWithoutBDDStyle" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PutMethodWithoutBDDStyle.validUpdateTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationTestingProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RestAssuredPutMethodTestCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RestAssuredPutMethodTestCase" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredPutMethodTestCase.PutMethodWithoutBDDStyle" />
+      <option name="METHOD_NAME" value="validUpdateTestCase" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -173,10 +194,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/testng.xml" />
-        <item itemvalue="TestNG.C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/testngWithoutBDD.xml" />
-        <item itemvalue="TestNG.HttpGetMethodWithoutBDDStyle" />
-        <item itemvalue="TestNG.HttpGetMethodWithoutBDDStyle.ValidBookingIDAPI" />
-        <item itemvalue="TestNG.HttpGetMethodBDDStyle.ValidStatusCodeTestCase" />
+        <item itemvalue="TestNG.DeleteMethodWithoutBDDStyle.DeleteRequestMethod" />
+        <item itemvalue="TestNG.DeleteMethodWithoutBDDStyle" />
+        <item itemvalue="TestNG.PatchMethodWithoutBDDStyle" />
+        <item itemvalue="TestNG.PutMethodWithoutBDDStyle.validUpdateTestCase" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +322,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734002573508</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="GetBookAPIWithoutBDDStyle">
+      <option name="closed" value="true" />
+      <created>1734006850630</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1734006850630</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,6 +347,32 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="GetBookAPI" />
     <MESSAGE value="GetBookAPIWithBDDStyle" />
-    <option name="LAST_COMMIT_MESSAGE" value="GetBookAPIWithBDDStyle" />
+    <MESSAGE value="GetBookAPIWithoutBDDStyle" />
+    <option name="LAST_COMMIT_MESSAGE" value="GetBookAPIWithoutBDDStyle" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/RestAssuredGetMethodTestCase/HttpGetMethodBDDStyle.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/RestAssuredPatchMethodsTestCase/PatchMethodWithoutBDDStyle.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/RestAssuredPatchMethodsTestCase/PatchMethodWithoutBDDStyle.java</url>
+          <line>18</line>
+          <properties class="RestAssuredPatchMethodsTestCase.PatchMethodWithoutBDDStyle" method="ValidPatchTesCase">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
