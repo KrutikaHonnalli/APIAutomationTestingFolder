@@ -7,6 +7,7 @@ import io.restassured.response.Response;
 import io.restassured.response.ValidatableResponse;
 import io.restassured.specification.RequestSpecification;
 import org.testng.annotations.Test;
+import  org.hamcrest.Matchers;
 
 public class LoginSuccessfulAndUnsuccessful
 {
@@ -35,6 +36,10 @@ public class LoginSuccessfulAndUnsuccessful
                                 .log()
                                 .all()
                                 .statusCode(200);
+
+                        //Assertion with Rest Assured
+
+
     }
     @Description("Login with only EmailId")
     @Test

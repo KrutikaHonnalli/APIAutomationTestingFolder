@@ -6,9 +6,12 @@ import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import io.restassured.response.ValidatableResponse;
 import io.restassured.specification.RequestSpecification;
+import org.hamcrest.Matchers;
+import org.testng.Assert;
 import org.testng.annotations.Test;
+import static org.assertj.core.api.Assertions.*;
 
-public class PartialUpdateUserAPI
+public class PartialUpdateForUserAPI
 {
     RequestSpecification Request;
     Response HttpMethod;
@@ -36,6 +39,17 @@ public class PartialUpdateUserAPI
                         .all()
                         .statusCode(200);
 
+                //Validating Response by using the Rest Assured
+                ValidateData.body("job",Matchers.equalTo("AutomationTesting"));
+                // Validating API response with the TestNG
+
+                String UpdatedJob = HttpMethod.then().extract().path("job");
+                String PartialUpdatedDate = HttpMethod.then().extract().path("updatedAt");
+
+                Assert.assertEquals(UpdatedJob,"AutomationTesting");
+                Assert.assertNotNull(PartialUpdatedDate);
+
+                assertThat(UpdatedJob).isEqualTo("AutomationTesting").isNotEmpty().isNotNull();
     }
 }
 

@@ -10,7 +10,7 @@
         </class>
         <class name="RestAssuredAPIExample.UpdateUserAPI">
         </class>
-        <class name="RestAssuredAPIExample.PartialUpdateUserAPI">
+        <class name="RestAssuredAPIExample.PartialUpdateForUserAPI">
         </class>
         <class name="RestAssuredAPIExample.DeleteUserAPI">
         </class>

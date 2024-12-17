@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9749eef4-ef6e-4378-9c8b-d45f08aa7965" name="Changes" comment="RestAssuredAPIWithoutBDDStyle">
-      <change afterPath="$PROJECT_DIR$/src/test/java/AssertionInTestCase/Assertion_WithAssertJExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AssertionInTestCase/Assertion_WithRestAssured.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AssertionInTestCase/Assertion_WithTestNG.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/RestAssuredAPIExample/CreateUserAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RestAssuredAPIExample/CreateUserAPI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/RestAssuredAPIExample/LoginSuccessfulAndUnsuccessful.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RestAssuredAPIExample/LoginSuccessfulAndUnsuccessful.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/RestAssuredAPIExample/PartialUpdateUserAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RestAssuredAPIExample/PartialUpdateForUserAPI.java" afterDir="false" />
@@ -141,7 +137,7 @@
       <recent name="AssertionInTestCase" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Assertion_WithAssertJExample">
+  <component name="RunManager" selected="TestNG.C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/RegisterandLoginUserAPI.xml">
     <configuration name="Assertion_WithAssertJExample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationTestingProgram" />
       <extension name="coverage">
@@ -153,6 +149,16 @@
       <option name="PACKAGE_NAME" value="AssertionInTestCase" />
       <option name="MAIN_CLASS_NAME" value="AssertionInTestCase.Assertion_WithAssertJExample" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/RegisterandLoginUserAPI.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationTestingProgram" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/RegisterandLoginUserAPI.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -193,23 +199,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PartialUpdateUserAPI" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="APIAutomationTestingProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RestAssuredAPIExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="RestAssuredAPIExample" />
-      <option name="MAIN_CLASS_NAME" value="RestAssuredAPIExample.PartialUpdateUserAPI" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UpdateUserAPI" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationTestingProgram" />
       <extension name="coverage">
@@ -229,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Assertion_WithAssertJExample" />
+        <item itemvalue="TestNG.C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/RegisterandLoginUserAPI.xml" />
         <item itemvalue="TestNG.PartialUpdateForUserAPI" />
-        <item itemvalue="TestNG.PartialUpdateUserAPI" />
         <item itemvalue="TestNG.UpdateUserAPI" />
         <item itemvalue="TestNG.CreateUserAPI" />
+        <item itemvalue="TestNG.Assertion_WithAssertJExample" />
       </list>
     </recent_temporary>
   </component>
@@ -382,7 +371,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734280846686</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="RestAssuredAPIWithoutBDDStyle">
+      <option name="closed" value="true" />
+      <created>1734423067707</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1734423067707</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
