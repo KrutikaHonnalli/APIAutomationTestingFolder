@@ -5,11 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9749eef4-ef6e-4378-9c8b-d45f08aa7965" name="Changes" comment="RestAssuredAPIWithoutBDDStyle">
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/MapPayload/CreateUserByusingthePayload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/MapPayload/PayloadByUsingMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/MapPayload/RegisterSuccessfulPayloadExampleByusingMa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/MapPayload/UpdateUserByusingthePayloadUsingMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/PayloadByusingPOJOClass/CreateBooking/Example1/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/PayloadByusingPOJOClass/CreateBooking/Example1/BookingDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/PayloadByusingPOJOClass/CreateBooking/Example1/CreateBookingMainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/PayloadByusingPOJOClass/CreateUser/UserExample/MainUserClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/PayloadByusingPOJOClass/CreateUser/UserExample/UserDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/RestFulAPIObject/CreateObject/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/RestFulAPIObject/CreateObject/NameClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/RestFulAPIObject/CreateObject/ResMainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/RestFulAPIObject/PartialUpdate/NameUpdateClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/RestFulAPIObject/PartialUpdate/PartialDataClas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/RestFulAPIObject/PartialUpdate/PartialUpdateClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/RestFulAPIObject/UpdateObject/UpdateDataClas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/RestFulAPIObject/UpdateObject/UpdateMainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/RestFulAPIObject/UpdateObject/UpdateNameClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/StringPayload/StringPayload.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/RestAssuredAPIExample/CreateUserAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RestAssuredAPIExample/CreateUserAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/RestAssuredAPIExample/LoginSuccessfulAndUnsuccessful.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RestAssuredAPIExample/LoginSuccessfulAndUnsuccessful.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/RestAssuredAPIExample/PartialUpdateUserAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RestAssuredAPIExample/PartialUpdateForUserAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/RestAssuredAPIExample/UpdateUserAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RestAssuredAPIExample/UpdateUserAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/RestAssuredPatchMethodsTestCase/PatchMethodWithoutBDDStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RestAssuredPatchMethodsTestCase/PatchMethodWithoutBDDStyle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/RestAssuredPostMethodTestCase/PostMethodWithoutBDDStyleExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RestAssuredPostMethodTestCase/PostMethodWithoutBDDStyleExample1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/RestAssuredPutMethodTestCase/PutMethodWithoutBDDStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RestAssuredPutMethodTestCase/PutMethodWithoutBDDStyle.java" afterDir="false" />
@@ -80,11 +96,15 @@
     "TestNG.Assertion_WithRestAssured.PostMethod.executor": "Run",
     "TestNG.Assertion_WithRestAssured.executor": "Run",
     "TestNG.Assertion_WithTestNG.executor": "Run",
+    "TestNG.BaseClassCreateBooking.CreateBookMethod.executor": "Run",
+    "TestNG.BaseClassCreateBooking.executor": "Run",
     "TestNG.C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/RegisterandLogin.xml.executor": "Run",
     "TestNG.C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/RegisterandLoginUserAPI.xml.executor": "Run",
     "TestNG.C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/testng.xml.executor": "Run",
     "TestNG.C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/testngWithoutBDD.xml.executor": "Run",
+    "TestNG.CreateBookingMainClass.executor": "Run",
     "TestNG.CreateUserAPI.executor": "Run",
+    "TestNG.CreateUserByusingthePayload.executor": "Run",
     "TestNG.DeleteMethodWithoutBDDStyle.DeleteRequestMethod.executor": "Run",
     "TestNG.DeleteMethodWithoutBDDStyle.executor": "Run",
     "TestNG.DeleteUserAPI.executor": "Run",
@@ -98,11 +118,20 @@
     "TestNG.HttpGetMethodWithoutBDDStyle.executor": "Run",
     "TestNG.LoginSuccessfulAndUnsuccessful.LoginWithValidDetails.executor": "Run",
     "TestNG.LoginSuccessfulAndUnsuccessful.executor": "Run",
+    "TestNG.MainBookingClass.CreateBookExample.executor": "Run",
+    "TestNG.MainBookingClass.executor": "Run",
+    "TestNG.MainClass.executor": "Run",
+    "TestNG.MainObjectClass.ExecuteClass.executor": "Run",
+    "TestNG.MainObjectClass.executor": "Run",
+    "TestNG.MainUserClass.executor": "Run",
+    "TestNG.PartialUpdateClass.PartialUpdateMethod.executor": "Run",
+    "TestNG.PartialUpdateClass.executor": "Run",
     "TestNG.PartialUpdateForUserAPI.executor": "Run",
     "TestNG.PartialUpdateUserAPI.executor": "Run",
     "TestNG.PatchMethodWithBDStyle.executor": "Run",
     "TestNG.PatchMethodWithoutBDDStyle.ValidPatchTesCase.executor": "Run",
     "TestNG.PatchMethodWithoutBDDStyle.executor": "Run",
+    "TestNG.PayloadByUsingMap.executor": "Run",
     "TestNG.PostMethodWithoutBDDStyleExample1.ValidPostRequest.executor": "Run",
     "TestNG.PostMethodWithoutBDDStyleExample1.executor": "Run",
     "TestNG.PostMethodWithoutBDDStyleExample2.executor": "Run",
@@ -111,9 +140,16 @@
     "TestNG.RegisterSuccessful (1).executor": "Run",
     "TestNG.RegisterSuccessful.executor": "Run",
     "TestNG.RegisterSuccessfulAndUnsuccessful.executor": "Run",
+    "TestNG.RegisterSuccessfulPayloadExampleByusingMa.executor": "Run",
+    "TestNG.ResMainClass.ResMainClassMethod.executor": "Run",
+    "TestNG.ResMainClass.executor": "Run",
     "TestNG.RestAssuredExample.ValidAPIURI.executor": "Run",
     "TestNG.RestAssuredExample.executor": "Run",
+    "TestNG.StringPayload.executor": "Run",
+    "TestNG.UpdateMainClass.ExecuteMainClass.executor": "Run",
+    "TestNG.UpdateMainClass.executor": "Run",
     "TestNG.UpdateUserAPI.executor": "Run",
+    "TestNG.UpdateUserByusingthePayloadUsingMap.executor": "Run",
     "TestNG.WithBDDStyleExample.executor": "Run",
     "TestNG.WithBDStyleTestCase.executor": "Run",
     "git-widget-placeholder": "master",
@@ -134,20 +170,21 @@
       <recent name="com.APIAutomationPrograms" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="RestAssuredMultiplePayloadExample.RestFulAPIObject.PartialUpdate" />
       <recent name="AssertionInTestCase" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/RegisterandLoginUserAPI.xml">
-    <configuration name="Assertion_WithAssertJExample" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.PartialUpdateClass">
+    <configuration name="PartialUpdateClass" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationTestingProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AssertionInTestCase.*" />
+          <option name="PATTERN" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.PartialUpdate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="AssertionInTestCase" />
-      <option name="MAIN_CLASS_NAME" value="AssertionInTestCase.Assertion_WithAssertJExample" />
+      <option name="PACKAGE_NAME" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.PartialUpdate" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.PartialUpdate.PartialUpdateClass" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -155,26 +192,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/RegisterandLoginUserAPI.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PartialUpdateClass.PartialUpdateMethod" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationTestingProgram" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/RegisterandLoginUserAPI.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.PartialUpdate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.PartialUpdate" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.PartialUpdate.PartialUpdateClass" />
+      <option name="METHOD_NAME" value="PartialUpdateMethod" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateUserAPI" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ResMainClass" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationTestingProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RestAssuredAPIExample.*" />
+          <option name="PATTERN" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.CreateObject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="RestAssuredAPIExample" />
-      <option name="MAIN_CLASS_NAME" value="RestAssuredAPIExample.CreateUserAPI" />
+      <option name="PACKAGE_NAME" value="RestAssuredMultiplePayloadExample.RestFulAPIObject" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.CreateObject.ResMainClass" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -182,16 +227,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PartialUpdateForUserAPI" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="UpdateMainClass" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationTestingProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RestAssuredAPIExample.*" />
+          <option name="PATTERN" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.UpdateObject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="RestAssuredAPIExample" />
-      <option name="MAIN_CLASS_NAME" value="RestAssuredAPIExample.PartialUpdateForUserAPI" />
+      <option name="PACKAGE_NAME" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.UpdateObject" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.UpdateObject.UpdateMainClass" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -199,17 +244,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UpdateUserAPI" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="UpdateMainClass.ExecuteMainClass" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationTestingProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RestAssuredAPIExample.*" />
+          <option name="PATTERN" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.UpdateObject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="RestAssuredAPIExample" />
-      <option name="MAIN_CLASS_NAME" value="RestAssuredAPIExample.UpdateUserAPI" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.UpdateObject" />
+      <option name="MAIN_CLASS_NAME" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.UpdateObject.UpdateMainClass" />
+      <option name="METHOD_NAME" value="ExecuteMainClass" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -218,11 +264,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/krutika.k.INDIA/IdeaProjects/APIAutomationTestingFolder/RegisterandLoginUserAPI.xml" />
-        <item itemvalue="TestNG.PartialUpdateForUserAPI" />
-        <item itemvalue="TestNG.UpdateUserAPI" />
-        <item itemvalue="TestNG.CreateUserAPI" />
-        <item itemvalue="TestNG.Assertion_WithAssertJExample" />
+        <item itemvalue="TestNG.PartialUpdateClass" />
+        <item itemvalue="TestNG.PartialUpdateClass.PartialUpdateMethod" />
+        <item itemvalue="TestNG.UpdateMainClass" />
+        <item itemvalue="TestNG.ResMainClass" />
+        <item itemvalue="TestNG.UpdateMainClass.ExecuteMainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -379,7 +425,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734423067707</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="RestAssuredAPIWithoutBDDStyle">
+      <option name="closed" value="true" />
+      <created>1734428633961</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1734428633961</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
