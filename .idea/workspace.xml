@@ -5,27 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9749eef4-ef6e-4378-9c8b-d45f08aa7965" name="Changes" comment="RestAssuredAPIWithoutBDDStyle">
-      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/MapPayload/CreateUserByusingthePayload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/MapPayload/PayloadByUsingMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/MapPayload/RegisterSuccessfulPayloadExampleByusingMa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/MapPayload/UpdateUserByusingthePayloadUsingMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/PayloadByusingPOJOClass/CreateBooking/Example1/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/PayloadByusingPOJOClass/CreateBooking/Example1/BookingDates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/PayloadByusingPOJOClass/CreateBooking/Example1/CreateBookingMainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/PayloadByusingPOJOClass/CreateUser/UserExample/MainUserClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/PayloadByusingPOJOClass/CreateUser/UserExample/UserDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/RestFulAPIObject/CreateObject/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/RestFulAPIObject/CreateObject/NameClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/RestFulAPIObject/CreateObject/ResMainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/RestFulAPIObject/PartialUpdate/NameUpdateClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/RestFulAPIObject/PartialUpdate/PartialDataClas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/RestFulAPIObject/PartialUpdate/PartialUpdateClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/RestFulAPIObject/UpdateObject/UpdateDataClas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/RestFulAPIObject/UpdateObject/UpdateMainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/RestFulAPIObject/UpdateObject/UpdateNameClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RestAssuredMultiplePayloadExample/StringPayload/StringPayload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BrandAPIQueryParameter/PartialUpdateBrand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BrandAPIQueryParameter/RetrieveSpecificBrand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BrandAPIQueryParameter/RetriveAllBrand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BrandAPIQueryParameter/SearchWithBrandValueByUsingQueryParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BrandAPIQueryParameter/StoreNewBrand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BrandAPIQueryParameter/UpdateSpecificBrand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/RestAssuredPatchMethodsTestCase/PatchMethodWithoutBDDStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RestAssuredPatchMethodsTestCase/PatchMethodWithoutBDDStyle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/RestAssuredPostMethodTestCase/PostMethodWithoutBDDStyleExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RestAssuredPostMethodTestCase/PostMethodWithoutBDDStyleExample1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/RestAssuredPutMethodTestCase/PutMethodWithoutBDDStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RestAssuredPutMethodTestCase/PutMethodWithoutBDDStyle.java" afterDir="false" />
@@ -124,6 +110,8 @@
     "TestNG.MainObjectClass.ExecuteClass.executor": "Run",
     "TestNG.MainObjectClass.executor": "Run",
     "TestNG.MainUserClass.executor": "Run",
+    "TestNG.PartialUpdateBrand.PartialUpdateBrandMethod.executor": "Run",
+    "TestNG.PartialUpdateBrand.executor": "Run",
     "TestNG.PartialUpdateClass.PartialUpdateMethod.executor": "Run",
     "TestNG.PartialUpdateClass.executor": "Run",
     "TestNG.PartialUpdateForUserAPI.executor": "Run",
@@ -145,9 +133,16 @@
     "TestNG.ResMainClass.executor": "Run",
     "TestNG.RestAssuredExample.ValidAPIURI.executor": "Run",
     "TestNG.RestAssuredExample.executor": "Run",
+    "TestNG.RetrieveSpecificBrand.executor": "Run",
+    "TestNG.RetriveAllBrand.executor": "Run",
+    "TestNG.SearchWithBrandValue.SearchWithValueMethod.executor": "Run",
+    "TestNG.SearchWithBrandValue.executor": "Run",
+    "TestNG.StoreNewBrand.executor": "Run",
     "TestNG.StringPayload.executor": "Run",
     "TestNG.UpdateMainClass.ExecuteMainClass.executor": "Run",
     "TestNG.UpdateMainClass.executor": "Run",
+    "TestNG.UpdateSpecificBrand.UpdateSpecificBrandMethod.executor": "Run",
+    "TestNG.UpdateSpecificBrand.executor": "Run",
     "TestNG.UpdateUserAPI.executor": "Run",
     "TestNG.UpdateUserByusingthePayloadUsingMap.executor": "Run",
     "TestNG.WithBDDStyleExample.executor": "Run",
@@ -174,17 +169,17 @@
       <recent name="AssertionInTestCase" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.PartialUpdateClass">
-    <configuration name="PartialUpdateClass" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="PartialUpdateBrand" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationTestingProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.PartialUpdate.*" />
+          <option name="PATTERN" value="BrandAPIQueryParameter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.PartialUpdate" />
-      <option name="MAIN_CLASS_NAME" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.PartialUpdate.PartialUpdateClass" />
+      <option name="PACKAGE_NAME" value="BrandAPI" />
+      <option name="MAIN_CLASS_NAME" value="BrandAPIQueryParameter.PartialUpdateBrand" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -192,17 +187,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PartialUpdateClass.PartialUpdateMethod" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PartialUpdateBrand.PartialUpdateBrandMethod" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationTestingProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.PartialUpdate.*" />
+          <option name="PATTERN" value="BrandAPIQueryParameter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.PartialUpdate" />
-      <option name="MAIN_CLASS_NAME" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.PartialUpdate.PartialUpdateClass" />
-      <option name="METHOD_NAME" value="PartialUpdateMethod" />
+      <option name="PACKAGE_NAME" value="BrandAPI" />
+      <option name="MAIN_CLASS_NAME" value="BrandAPIQueryParameter.PartialUpdateBrand" />
+      <option name="METHOD_NAME" value="PartialUpdateBrandMethod" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -210,16 +205,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ResMainClass" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="RetriveAllBrand" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationTestingProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.CreateObject.*" />
+          <option name="PATTERN" value="BrandAPIQueryParameter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="RestAssuredMultiplePayloadExample.RestFulAPIObject" />
-      <option name="MAIN_CLASS_NAME" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.CreateObject.ResMainClass" />
+      <option name="PACKAGE_NAME" value="BrandAPI" />
+      <option name="MAIN_CLASS_NAME" value="BrandAPIQueryParameter.RetriveAllBrand" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -227,16 +222,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UpdateMainClass" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SearchWithBrandValueByUsingQueryParameter" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationTestingProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.UpdateObject.*" />
+          <option name="PATTERN" value="BrandAPIQueryParameter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.UpdateObject" />
-      <option name="MAIN_CLASS_NAME" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.UpdateObject.UpdateMainClass" />
+      <option name="PACKAGE_NAME" value="BrandAPI" />
+      <option name="MAIN_CLASS_NAME" value="BrandAPIQueryParameter.SearchWithBrandValueByUsingQueryParameter" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -244,17 +239,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UpdateMainClass.ExecuteMainClass" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SearchWithBrandValueByUsingQueryParameter.SearchWithValueMethod" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationTestingProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.UpdateObject.*" />
+          <option name="PATTERN" value="BrandAPIQueryParameter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.UpdateObject" />
-      <option name="MAIN_CLASS_NAME" value="RestAssuredMultiplePayloadExample.RestFulAPIObject.UpdateObject.UpdateMainClass" />
-      <option name="METHOD_NAME" value="ExecuteMainClass" />
+      <option name="PACKAGE_NAME" value="BrandAPI" />
+      <option name="MAIN_CLASS_NAME" value="BrandAPIQueryParameter.SearchWithBrandValueByUsingQueryParameter" />
+      <option name="METHOD_NAME" value="SearchWithValueMethod" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -264,11 +259,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.PartialUpdateClass" />
-        <item itemvalue="TestNG.PartialUpdateClass.PartialUpdateMethod" />
-        <item itemvalue="TestNG.UpdateMainClass" />
-        <item itemvalue="TestNG.ResMainClass" />
-        <item itemvalue="TestNG.UpdateMainClass.ExecuteMainClass" />
+        <item itemvalue="TestNG.SearchWithBrandValueByUsingQueryParameter" />
+        <item itemvalue="TestNG.SearchWithBrandValueByUsingQueryParameter.SearchWithValueMethod" />
+        <item itemvalue="TestNG.PartialUpdateBrand.PartialUpdateBrandMethod" />
+        <item itemvalue="TestNG.PartialUpdateBrand" />
+        <item itemvalue="TestNG.RetriveAllBrand" />
       </list>
     </recent_temporary>
   </component>
@@ -433,7 +428,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734428633961</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="RestAssuredAPIWithoutBDDStyle">
+      <option name="closed" value="true" />
+      <created>1734594746612</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1734594746613</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -467,6 +470,11 @@
           <url>file://$PROJECT_DIR$/src/test/java/RestAssuredPatchMethodsTestCase/PatchMethodWithoutBDDStyle.java</url>
           <line>10</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/BrandAPIQueryParameter/UpdateSpecificBrand.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/RestAssuredPatchMethodsTestCase/PatchMethodWithoutBDDStyle.java</url>
